@@ -4,7 +4,7 @@
     <property name="created">2017-03-14T12:17:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-06-24T23:01:30</property>
+    <property name="modified">2017-06-02T13:09:03</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="18" />
@@ -121,35 +121,12 @@
     </option>
     <option name="JAVA_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="467cda" />
-      </value>
-    </option>
-    <option name="KDOC_LINK">
-      <value>
-        <option name="FOREGROUND" value="8a653b" />
-      </value>
-    </option>
-    <option name="KDOC_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="629755" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="629755" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="KOTLIN_ABSTRACT_CLASS">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
     <option name="KOTLIN_ARROW">
       <value>
         <option name="FOREGROUND" value="428ab8" />
-      </value>
-    </option>
-    <option name="KOTLIN_BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="KOTLIN_BRACES">
@@ -162,58 +139,9 @@
         <option name="FOREGROUND" value="428ab8" />
       </value>
     </option>
-    <option name="KOTLIN_BUILTIN_ANNOTATION">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
-      </value>
-    </option>
-    <option name="KOTLIN_CLASS">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-      </value>
-    </option>
-    <option name="KOTLIN_COMMA">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
-      </value>
-    </option>
-    <option name="KOTLIN_CONSTRUCTOR">
-      <value />
-    </option>
-    <option name="KOTLIN_DOC_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="629755" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="KOTLIN_DOT">
       <value>
         <option name="FOREGROUND" value="428ab8" />
-      </value>
-    </option>
-    <option name="KOTLIN_ENUM_ENTRY">
-      <value>
-        <option name="FOREGROUND" value="9876aa" />
-      </value>
-    </option>
-    <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="KOTLIN_EXTENSION_PROPERTY">
-      <value>
-        <option name="FOREGROUND" value="9876aa" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="KOTLIN_FUNCTION_CALL">
-      <value />
-    </option>
-    <option name="KOTLIN_FUNCTION_DECLARATION">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
@@ -222,56 +150,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_INSTANCE_PROPERTY">
-      <value>
-        <option name="FOREGROUND" value="9876aa" />
-      </value>
-    </option>
-    <option name="KOTLIN_INVALID_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="6a8759" />
-        <option name="EFFECT_COLOR" value="ff0000" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="KOTLIN_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
-      </value>
-    </option>
-    <option name="KOTLIN_LINE_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-      </value>
-    </option>
-    <option name="KOTLIN_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-      </value>
-    </option>
-    <option name="KOTLIN_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="6897bb" />
-      </value>
-    </option>
-    <option name="KOTLIN_OBJECT">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-      </value>
-    </option>
     <option name="KOTLIN_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="428ab8" />
       </value>
-    </option>
-    <option name="KOTLIN_PACKAGE_PROPERTY">
-      <value>
-        <option name="FOREGROUND" value="9876aa" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="KOTLIN_PARAMETER">
-      <value />
     </option>
     <option name="KOTLIN_PARENTHESIS">
       <value>
@@ -281,31 +163,6 @@
     <option name="KOTLIN_SAFE_ACCESS">
       <value>
         <option name="FOREGROUND" value="20999d" />
-      </value>
-    </option>
-    <option name="KOTLIN_SEMICOLON">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
-      </value>
-    </option>
-    <option name="KOTLIN_STRING">
-      <value>
-        <option name="FOREGROUND" value="6a8759" />
-      </value>
-    </option>
-    <option name="KOTLIN_STRING_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="cc7832" />
-      </value>
-    </option>
-    <option name="KOTLIN_TRAIT">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-      </value>
-    </option>
-    <option name="KOTLIN_WRAPPED_INTO_REF">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">

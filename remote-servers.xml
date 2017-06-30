@@ -4,6 +4,7 @@
       <configuration>
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" value="/var/lib/docker" />
+        <option name="machine" value="default" />
       </configuration>
     </remote-server>
   </component>

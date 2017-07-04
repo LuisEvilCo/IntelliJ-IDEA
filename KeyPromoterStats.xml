@@ -3,6 +3,9 @@
     <option name="stats">
       <map>
         <entry key="'Alt+1'" value="1" />
+        <entry key="'F7'" value="1" />
+        <entry key="'F8'" value="5" />
+        <entry key="'F9'" value="6" />
         <entry key="'Shift+F9' or 'Button5 Click'" value="1" />
       </map>
     </option>

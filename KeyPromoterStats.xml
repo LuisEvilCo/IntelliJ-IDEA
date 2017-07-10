@@ -14,7 +14,7 @@
         <entry key="'Ctrl+Alt+Z'" value="4" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="1" />
         <entry key="'Ctrl+F2'" value="18" />
-        <entry key="'Ctrl+F5'" value="21" />
+        <entry key="'Ctrl+F5'" value="22" />
         <entry key="'Ctrl+Shift+F'" value="1" />
         <entry key="'Ctrl+Shift+F10'" value="4" />
         <entry key="'Ctrl+Shift+F8'" value="7" />
@@ -24,7 +24,7 @@
         <entry key="'F9'" value="49" />
         <entry key="'Shift+F10'" value="9" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="25" />
-        <entry key="'Shift+F9' or 'Button5 Click'" value="18" />
+        <entry key="'Shift+F9' or 'Button5 Click'" value="19" />
       </map>
     </option>
   </component>

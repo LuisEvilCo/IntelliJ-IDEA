@@ -15,7 +15,7 @@
         <entry key="'Ctrl+Alt+Shift+K'" value="2" />
         <entry key="'Ctrl+Alt+Z'" value="5" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="3" />
-        <entry key="'Ctrl+F2'" value="24" />
+        <entry key="'Ctrl+F2'" value="25" />
         <entry key="'Ctrl+F5'" value="22" />
         <entry key="'Ctrl+K'" value="1" />
         <entry key="'Ctrl+Shift+F'" value="1" />
@@ -26,7 +26,7 @@
         <entry key="'F7'" value="23" />
         <entry key="'F8'" value="227" />
         <entry key="'F9'" value="97" />
-        <entry key="'Shift+F10'" value="10" />
+        <entry key="'Shift+F10'" value="11" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="25" />
         <entry key="'Shift+F9' or 'Button5 Click'" value="28" />
       </map>

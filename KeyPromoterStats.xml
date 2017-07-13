@@ -2,7 +2,7 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
-        <entry key="'Alt+1'" value="16" />
+        <entry key="'Alt+1'" value="17" />
         <entry key="'Alt+4'" value="1" />
         <entry key="'Alt+5'" value="7" />
         <entry key="'Alt+7'" value="10" />
@@ -23,7 +23,7 @@
         <entry key="'Ctrl+Shift+F10'" value="7" />
         <entry key="'Ctrl+Shift+F8'" value="10" />
         <entry key="'Ctrl+Shift+K'" value="2" />
-        <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="23" />
+        <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="25" />
         <entry key="'F7'" value="23" />
         <entry key="'F8'" value="228" />
         <entry key="'F9'" value="100" />

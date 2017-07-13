@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="/bin/sh" />
       <option name="PARAMETERS" value="restartTomcat.sh" />
-      <option name="WORKING_DIRECTORY" value="C:/Users/Luis/edlio" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/edlio" />
     </exec>
   </tool>
 </toolSet>

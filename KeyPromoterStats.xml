@@ -7,30 +7,30 @@
         <entry key="'Alt+5'" value="7" />
         <entry key="'Alt+7'" value="10" />
         <entry key="'Alt+9'" value="3" />
-        <entry key="'Alt+Delete'" value="15" />
+        <entry key="'Alt+Delete'" value="16" />
         <entry key="'Alt+F10'" value="3" />
-        <entry key="'Alt+F7'" value="8" />
-        <entry key="'Alt+F8'" value="8" />
+        <entry key="'Alt+F7'" value="9" />
+        <entry key="'Alt+F8'" value="10" />
         <entry key="'Alt+Insert'" value="6" />
         <entry key="'Alt+Up'" value="2" />
         <entry key="'Ctrl+Alt+Shift+K'" value="2" />
         <entry key="'Ctrl+Alt+Z'" value="6" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="3" />
-        <entry key="'Ctrl+F2'" value="33" />
+        <entry key="'Ctrl+F2'" value="37" />
         <entry key="'Ctrl+F5'" value="30" />
         <entry key="'Ctrl+K'" value="4" />
         <entry key="'Ctrl+Shift+C'" value="1" />
         <entry key="'Ctrl+Shift+F'" value="1" />
         <entry key="'Ctrl+Shift+F10'" value="9" />
-        <entry key="'Ctrl+Shift+F8'" value="11" />
+        <entry key="'Ctrl+Shift+F8'" value="12" />
         <entry key="'Ctrl+Shift+K'" value="2" />
         <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="27" />
-        <entry key="'F7'" value="23" />
-        <entry key="'F8'" value="229" />
-        <entry key="'F9'" value="107" />
+        <entry key="'F7'" value="27" />
+        <entry key="'F8'" value="241" />
+        <entry key="'F9'" value="109" />
         <entry key="'Shift+F10'" value="12" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="27" />
-        <entry key="'Shift+F9' or 'Button5 Click'" value="37" />
+        <entry key="'Shift+F9' or 'Button5 Click'" value="43" />
       </map>
     </option>
   </component>

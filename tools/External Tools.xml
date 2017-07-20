@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="/bin/bash" />
       <option name="PARAMETERS" value="jumpStartSocialMedia.sh" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/edlio/social-media" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Luis/edlio/social-media" />
     </exec>
   </tool>
 </toolSet>

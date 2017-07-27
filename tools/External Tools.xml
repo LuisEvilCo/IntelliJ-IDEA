@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="/bin/sh" />
       <option name="PARAMETERS" value="restartTomcat.sh" />
-      <option name="WORKING_DIRECTORY" value="C:/Users/Luis/edlio" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/scripts" />
     </exec>
   </tool>
   <tool name="load social env variables" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
@@ -11,6 +11,13 @@
       <option name="COMMAND" value="/bin/bash" />
       <option name="PARAMETERS" value="jumpStartSocialMedia.sh" />
       <option name="WORKING_DIRECTORY" value="C:/Users/Luis/edlio/social-media" />
+    </exec>
+  </tool>
+  <tool name="BackEnd" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/sh" />
+      <option name="PARAMETERS" value="backEnd.sh" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/scripts" />
     </exec>
   </tool>
 </toolSet>

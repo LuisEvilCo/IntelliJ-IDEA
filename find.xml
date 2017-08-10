@@ -19,9 +19,12 @@
       <mask>*.ft</mask>
       <mask>*.f</mask>
       <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.jkt</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>

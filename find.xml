@@ -3,13 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -19,13 +16,16 @@
       <mask>*.ftl</mask>
       <mask>*.ft</mask>
       <mask>*.f</mask>
-      <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.jkt</mask>
       <mask>*.kt</mask>
+      <mask>*.k</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>

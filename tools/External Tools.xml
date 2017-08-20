@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="/bin/sh" />
       <option name="PARAMETERS" value="restartTomcat.sh" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/scripts" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Luis/scripts" />
     </exec>
   </tool>
   <tool name="load social env variables" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
@@ -17,7 +17,7 @@
     <exec>
       <option name="COMMAND" value="/bin/sh" />
       <option name="PARAMETERS" value="backEnd.sh" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/scripts" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Luis/scripts" />
     </exec>
   </tool>
 </toolSet>

@@ -65,9 +65,9 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="ObjectiveC">
-        <configuration>
-          <option name="VALUES_FILTER_ENABLED" value="false" />
+      <debugger id="javascript">
+        <configuration captureAsyncStackTraces="false">
+          <custom-object-presentation />
         </configuration>
       </debugger>
       <debugger id="kotlin_debugger">

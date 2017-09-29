@@ -16,16 +16,16 @@
       <mask>*.ftl</mask>
       <mask>*.ft</mask>
       <mask>*.f</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.jkt</mask>
-      <mask>*.kt</mask>
-      <mask>*.k</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.k</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>

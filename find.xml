@@ -2,10 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.xml</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -17,13 +17,23 @@
       <mask>*.js</mask>
       <mask>*.jsp</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.kt</mask>
       <mask>*.k</mask>
       <mask>*.ftl</mask>
       <mask>*.ft</mask>
       <mask>*.f</mask>
+      <mask>ṔPS</mask>
+      <mask>ṔP</mask>
+      <mask>Ṕ</mask>
+      <mask>P</mask>
+      <mask>PPS</mask>
+      <mask>PPS*</mask>
+      <mask>*</mask>
+      <mask>*.hja</mask>
+      <mask>*.hj</mask>
+      <mask>*.h</mask>
       <mask>*.</mask>
+      <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
     </recentFileMasks>

@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.xml</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -13,18 +11,28 @@
       <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
+      <mask>*.jkt</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
+      <mask>*.ja</mask>
+      <mask>*.kt</mask>
+      <mask>*.k</mask>
       <mask>*.ftl</mask>
       <mask>*.ft</mask>
       <mask>*.f</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.jkt</mask>
-      <mask>*.kt</mask>
-      <mask>*.k</mask>
+      <mask>ṔPS</mask>
+      <mask>ṔP</mask>
+      <mask>Ṕ</mask>
+      <mask>P</mask>
+      <mask>PPS</mask>
+      <mask>PPS*</mask>
+      <mask>*</mask>
+      <mask>*.hja</mask>
+      <mask>*.hj</mask>
+      <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jsp</mask>
+      <mask>*.jav</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>

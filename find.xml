@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.as</mask>
@@ -15,8 +16,6 @@
       <mask>*.js</mask>
       <mask>*.jsp</mask>
       <mask>*.ja</mask>
-      <mask>*.kt</mask>
-      <mask>*.k</mask>
       <mask>*.ftl</mask>
       <mask>*.ft</mask>
       <mask>*.f</mask>
@@ -26,14 +25,16 @@
       <mask>P</mask>
       <mask>PPS</mask>
       <mask>PPS*</mask>
-      <mask>*</mask>
       <mask>*.hja</mask>
       <mask>*.hj</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.k</mask>
+      <mask>*.kt</mask>
     </recentFileMasks>
   </component>
 </application>

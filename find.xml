@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'cms'" />
-    <option name="defaultScopeName" value="Project 'cms'" />
-    <option name="SEARCH_SCOPE" value="Project 'cms'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.as</mask>

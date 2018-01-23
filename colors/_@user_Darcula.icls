@@ -4,11 +4,12 @@
     <property name="created">2017-03-14T12:17:55</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-06-29T08:58:16</property>
+    <property name="modified">2018-01-23T08:20:42</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
@@ -139,6 +140,12 @@
         <option name="FOREGROUND" value="428ab8" />
       </value>
     </option>
+    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="428ab8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_DOT">
       <value>
         <option name="FOREGROUND" value="428ab8" />
@@ -163,6 +170,12 @@
     <option name="KOTLIN_SAFE_ACCESS">
       <value>
         <option name="FOREGROUND" value="20999d" />
+      </value>
+    </option>
+    <option name="LAMBDA_PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="428ab8" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
